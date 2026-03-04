@@ -2,6 +2,11 @@ name: Build Release
 
 on: 
   workflow_dispatch:
+  push:
+    branches: 
+    - 'main'
+    paths:
+    - 'Packages/com.lackofbindings.vizvidquickinput/package.json'
 
 jobs:
 

@@ -1,1 +1,54 @@
-{"dependencies": {}, "locked": {}}
+{
+  "dependencies": {
+    "idv.jlchntoz.vvmw": {
+      "version": "1.5.3"
+    },
+    "com.vrchat.worlds": {
+      "version": "3.10.2"
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.29"
+    },
+    "com.vrchat.base": {
+      "version": "3.10.2"
+    },
+    "one.razgriz.rats": {
+      "version": "1.3.0"
+    }
+  },
+  "locked": {
+    "idv.jlchntoz.vvmw": {
+      "version": "1.5.3",
+      "dependencies": {
+        "com.vrchat.worlds": "3.x.x >=3.9.0",
+        "idv.jlchntoz.vrcw-foundation": "0.0.x >=0.0.51"
+      }
+    },
+    "com.vrchat.worlds": {
+      "version": "3.10.2",
+      "dependencies": {
+        "com.vrchat.base": "3.10.2"
+      }
+    },
+    "idv.jlchntoz.vrcw-foundation": {
+      "version": "0.0.52",
+      "dependencies": {
+        "com.vrchat.worlds": "3.x.x >=3.9.0"
+      }
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.29",
+      "dependencies": {}
+    },
+    "com.vrchat.base": {
+      "version": "3.10.2",
+      "dependencies": {}
+    },
+    "one.razgriz.rats": {
+      "version": "1.3.0",
+      "dependencies": {
+        "com.vrchat.base": "^3.4.0"
+      }
+    }
+  }
+}

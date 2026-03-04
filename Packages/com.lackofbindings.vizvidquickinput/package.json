@@ -1,0 +1,20 @@
+{
+    "name": "com.lackofbindings.vizvidquickinput",
+    "displayName": "VizVid Quick Input",
+    "description": "Quick URL input UI for the VizVid video player system.",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "author": {
+      "name": "lackofbindings",
+      "url": "https://github.com/lackofbindings"
+    },
+    "legacyFolders": {
+      "Assets\\World\\VizVid Quick Input" : "a686dca8881308a4eac05a55c24bdee5"
+    },
+    "legacyFiles": {},
+    "gitDependencies": {},
+    "vpmDependencies": {
+      "com.vrchat.worlds": "3.x.x",
+      "idv.jlchntoz.vvmw": "^1.2.0"
+    }
+  }
