@@ -1,5 +1,7 @@
 # VizVid Quick Input
 
+<image src="docs/resources/preview.jpg" width="512" />
+
 An unofficial add-on for the VRChat VizVid video player system that adds large simple-to-use buttons to quickly add URLs with no fuss. It interacts with the `PlayUrl()` method exposed by VizVid's `FrontendHandler`.
 
 This skips over the fiddly UX of having to click the bar, enter a url, choose a player from the tiny dropdown, and finally click the tiny enqueue button. This prefab replaces all of that with a single click, enter URL, done.
